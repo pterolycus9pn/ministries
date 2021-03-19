@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ministries/static/css/main.76db92e3.chunk.css",
+    "main.js": "/ministries/static/js/main.c3db38e2.chunk.js",
+    "main.js.map": "/ministries/static/js/main.c3db38e2.chunk.js.map",
+    "runtime-main.js": "/ministries/static/js/runtime-main.fa60a973.js",
+    "runtime-main.js.map": "/ministries/static/js/runtime-main.fa60a973.js.map",
+    "static/js/2.c14d1555.chunk.js": "/ministries/static/js/2.c14d1555.chunk.js",
+    "static/js/2.c14d1555.chunk.js.map": "/ministries/static/js/2.c14d1555.chunk.js.map",
+    "static/js/3.468c159e.chunk.js": "/ministries/static/js/3.468c159e.chunk.js",
+    "static/js/3.468c159e.chunk.js.map": "/ministries/static/js/3.468c159e.chunk.js.map",
+    "index.html": "/ministries/index.html",
+    "static/css/main.76db92e3.chunk.css.map": "/ministries/static/css/main.76db92e3.chunk.css.map",
+    "static/js/2.c14d1555.chunk.js.LICENSE.txt": "/ministries/static/js/2.c14d1555.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/ministries/static/media/ZMB_flag.a36bd349.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa60a973.js",
+    "static/js/2.c14d1555.chunk.js",
+    "static/css/main.76db92e3.chunk.css",
+    "static/js/main.c3db38e2.chunk.js"
+  ]
+}
